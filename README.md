@@ -1,4 +1,4 @@
-# Tableau
+# Superstore Business & Analytics Report
 
 ## Overview
 Thirty scenario-based business questions answered against the classic Tableau Superstore dataset, each backed by a chart and a short explanation of why that chart type was the right call for the question.
